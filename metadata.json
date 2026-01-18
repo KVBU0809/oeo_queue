@@ -1,0 +1,8 @@
+{
+  "name": "Registration Queue",
+  "description": "A high-end queuing system featuring a beautiful display with integrated video advertising, real-time ticket tracking, and an AI-powered announcement engine.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
